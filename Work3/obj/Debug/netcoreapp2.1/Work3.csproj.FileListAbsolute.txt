@@ -1,0 +1,11 @@
+C:\Users\rhyme\source\repos\Work3\Work3\bin\Debug\netcoreapp2.1\Work3.deps.json
+C:\Users\rhyme\source\repos\Work3\Work3\bin\Debug\netcoreapp2.1\Work3.runtimeconfig.json
+C:\Users\rhyme\source\repos\Work3\Work3\bin\Debug\netcoreapp2.1\Work3.runtimeconfig.dev.json
+C:\Users\rhyme\source\repos\Work3\Work3\bin\Debug\netcoreapp2.1\Work3.dll
+C:\Users\rhyme\source\repos\Work3\Work3\bin\Debug\netcoreapp2.1\Work3.pdb
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.csprojAssemblyReference.cache
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.csproj.CoreCompileInputs.cache
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.AssemblyInfoInputs.cache
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.AssemblyInfo.cs
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.dll
+C:\Users\rhyme\source\repos\Work3\Work3\obj\Debug\netcoreapp2.1\Work3.pdb
